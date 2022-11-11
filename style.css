@@ -1,0 +1,6 @@
+.col{
+    border-radius: 1px solid white !important;
+}
+.carousel-inner{
+    max-height: 10vh;
+}
